@@ -6,5 +6,5 @@ sudo apt upgrade && sudo apt update -y
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
 # Install docker
-curl -fsSL get.docker.com -o get-docker.sh
+curl -fsSL htpps://get.docker.com -o get-docker.sh
 sudo sh get-docker.sh
